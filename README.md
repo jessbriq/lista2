@@ -4,7 +4,7 @@
 **Instruções:**  
 1. Certifique-se de ter o [Node.js](https://nodejs.org/pt) instalado (versão 12 ou superior);  
 2. Certifique-se de ter o [Visual Studio Code (VSCode)](https://code.visualstudio.com/) instalado;
-3. Clone o repositório com o comando git clone;  
+3. Clone o repositório com o comando git clone https://github.com/jessbriq/lista2;  
 4. Com o comando cd ou clicando na pasta navegue até o diretório onde foi clonado o repositório;  
 5. Garanta que a biblioteca prompt-sync esteja insatalada;  
     5.1 Navegue até a pasta onde foi adicionado o arquivo lista2.js no VSCode (através do terminal com o comando cd ou clicando na pasta);
